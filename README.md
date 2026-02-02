@@ -1,0 +1,2 @@
+# opengl-games
+Chain Reaction and Snake games based on OpenGL Library.
